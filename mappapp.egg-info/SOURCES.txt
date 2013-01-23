@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+mappapp/__init__.py
+mappapp.egg-info/PKG-INFO
+mappapp.egg-info/SOURCES.txt
+mappapp.egg-info/dependency_links.txt
+mappapp.egg-info/entry_points.txt
+mappapp.egg-info/not-zip-safe
+mappapp.egg-info/top_level.txt
